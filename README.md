@@ -1,8 +1,11 @@
+# Description
+
+A web service for predicting reproducibility of scientific articles created during the Scientific Information Gathering and Processing for Engineering Research given by Prof. Nordling at the National Cheng Kung University. This code is Open Source under the Apache 2.0 license and belongs to Nordling Lab/Nordron AB. Note that by committing code to this repository you donate it so that it can be made available as Open Source that is free to use for anyone in the world, including yourself. Otherwise you would own your code and your classmate his, but neither of you could use the software package because all the code is needed to run the service.
+
+
 # Introduction
 
-Welcome to the NordlingLab-Reprodm Repository. 
-
-This repository contains material for the "Scientific Information Gathering and Processing for Engineering Research" course created by Dr. Torbjörn Nordling at National Cheng Kung University, Taiwan. 
+This repository contains material for the "Scientific Information Gathering and Processing for Engineering Research" course created by Dr. Torbj≈°rn Nordling at National Cheng Kung University, Taiwan. 
 This repository in specific, contains all the work done in our attempt of creating a web service for predicting reproducibility of scientific articles during the aforementioned course by Prof. Nordling in the Spring Semester 
 of 2022. The resulting web service represents the work of all the students and professor working together to make this project a reality. 
 
