@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="outputxmlminer.css"?>
+<pages>
+<page id="1" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="36.000,745.510,437.999,754.688">
+<textline bbox="36.000,745.510,437.999,754.688">
+<text font="CIDFont+F1" bbox="36.000,745.510,40.624,754.688" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,745.510,45.256,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,745.510,49.999,754.688" size="9.178">P</text>
+<text font="CIDFont+F1" bbox="50.007,745.510,54.631,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="54.639,745.510,59.263,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="59.382,745.510,64.006,754.688" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="64.013,745.510,68.638,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="68.756,745.510,73.381,754.688" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="73.388,745.510,78.013,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="78.020,745.510,82.644,754.688" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="82.763,745.510,87.387,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="87.395,745.510,92.019,754.688" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="92.138,745.510,96.762,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="96.770,745.510,101.394,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="101.402,745.510,106.026,754.688" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="106.145,745.510,110.769,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="110.776,745.510,115.401,754.688" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="115.408,745.510,120.033,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="120.151,745.510,124.776,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="124.783,745.510,129.407,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="129.526,745.510,134.150,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="134.158,745.510,138.782,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="138.790,745.510,143.414,754.688" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="143.533,745.510,148.157,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="148.165,745.510,152.789,754.688" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="152.908,745.510,157.532,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="157.539,745.510,162.164,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="162.171,745.510,166.796,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="166.914,745.510,171.539,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="171.546,745.510,176.170,754.688" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="176.178,745.510,180.802,754.688" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="180.921,745.510,185.545,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="185.553,745.510,190.177,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="190.296,745.510,194.920,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="194.928,745.510,199.552,754.688" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="199.559,745.510,204.184,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="204.302,745.510,208.927,754.688" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="208.934,745.510,213.559,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="213.677,745.510,218.302,754.688" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="218.309,745.510,222.933,754.688" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="222.941,745.510,227.565,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="227.684,745.510,232.308,754.688" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="232.316,745.510,236.940,754.688" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="236.948,745.510,241.572,754.688" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="241.691,745.510,246.315,754.688" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="246.322,745.510,250.947,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="251.065,745.510,255.690,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="255.697,745.510,260.322,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="260.329,745.510,264.954,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="265.072,745.510,269.697,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="269.704,745.510,274.328,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="274.447,745.510,279.071,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="279.079,745.510,283.703,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="283.711,745.510,288.335,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="288.454,745.510,293.078,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="293.085,745.510,297.710,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="297.717,745.510,302.342,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="302.460,745.510,307.085,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="307.092,745.510,311.717,754.688" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="311.835,745.510,316.460,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="316.467,745.510,321.091,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="321.099,745.510,325.723,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="325.842,745.510,330.466,754.688" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="330.474,745.510,335.098,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="335.217,745.510,339.841,754.688" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="339.848,745.510,344.473,754.688" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="344.480,745.510,349.105,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="349.223,745.510,353.848,754.688" size="9.178">P</text>
+<text font="CIDFont+F1" bbox="353.855,745.510,358.480,754.688" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="358.487,745.510,363.111,754.688" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="363.230,745.510,367.854,754.688" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="367.862,745.510,372.486,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="372.605,745.510,377.229,754.688" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="377.237,745.510,381.861,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="381.868,745.510,386.493,754.688" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="386.611,745.510,391.236,754.688" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="391.243,745.510,395.868,754.688" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="395.986,745.510,400.611,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="400.618,745.510,405.243,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="405.250,745.510,409.874,754.688" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="409.993,745.510,414.617,754.688" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="414.625,745.510,419.249,754.688" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="419.257,745.510,423.881,754.688" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="424.000,745.510,428.624,754.688" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="428.631,745.510,433.256,754.688" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="433.374,745.510,437.999,754.688" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="36.000,714.190,573.545,733.808">
+<textline bbox="36.000,724.630,573.545,733.808">
+<text font="CIDFont+F1" bbox="36.000,724.630,40.624,733.808" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,724.630,45.256,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,724.630,49.999,733.808" size="9.178">F</text>
+<text font="CIDFont+F1" bbox="50.007,724.630,54.631,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="54.639,724.630,59.263,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="59.382,724.630,64.006,733.808" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="64.013,724.630,68.638,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="68.756,724.630,73.381,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="73.388,724.630,78.013,733.808" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="78.020,724.630,82.644,733.808" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="82.763,724.630,87.387,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="87.395,724.630,92.019,733.808" size="9.178">A</text>
+<text font="CIDFont+F1" bbox="92.138,724.630,96.762,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="96.770,724.630,101.394,733.808" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="101.402,724.630,106.026,733.808" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="106.145,724.630,110.769,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="110.776,724.630,115.401,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="115.408,724.630,120.033,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="120.151,724.630,124.776,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="124.783,724.630,129.407,733.808" size="9.178">1</text>
+<text font="CIDFont+F1" bbox="129.526,724.630,134.150,733.808" size="9.178">0</text>
+<text font="CIDFont+F1" bbox="134.158,724.630,138.782,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="138.790,724.630,143.414,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="143.533,724.630,148.157,733.808" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="148.165,724.630,152.789,733.808" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="152.908,724.630,157.532,733.808" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="157.539,724.630,162.164,733.808" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="162.171,724.630,166.796,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="166.914,724.630,171.539,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="171.546,724.630,176.170,733.808" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="176.178,724.630,180.802,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="180.921,724.630,185.545,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="185.553,724.630,190.177,733.808" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="190.296,724.630,194.920,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="194.928,724.630,199.552,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="199.559,724.630,204.184,733.808" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="204.302,724.630,208.927,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="208.934,724.630,213.559,733.808" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="213.677,724.630,218.302,733.808" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="218.309,724.630,222.933,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="222.941,724.630,227.565,733.808" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="227.684,724.630,232.308,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="232.316,724.630,236.940,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="236.948,724.630,241.572,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="241.691,724.630,246.315,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="246.322,724.630,250.947,733.808" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="251.065,724.630,255.690,733.808" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="255.697,724.630,260.322,733.808" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="260.329,724.630,264.954,733.808" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="265.072,724.630,269.697,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="269.704,724.630,274.328,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="274.447,724.630,279.071,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="279.079,724.630,283.703,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="283.711,724.630,288.335,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="288.454,724.630,293.078,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="293.085,724.630,297.710,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="297.717,724.630,302.342,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="302.460,724.630,307.085,733.808" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="307.092,724.630,311.717,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="311.835,724.630,316.460,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="316.467,724.630,321.091,733.808" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="321.099,724.630,325.723,733.808" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="325.842,724.630,330.466,733.808" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="330.474,724.630,335.098,733.808" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="335.217,724.630,339.841,733.808" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="339.848,724.630,344.473,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="344.480,724.630,349.105,733.808" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="349.223,724.630,353.848,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="353.855,724.630,358.480,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="358.487,724.630,363.111,733.808" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="363.230,724.630,367.854,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="367.862,724.630,372.486,733.808" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="372.605,724.630,377.229,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="377.237,724.630,381.861,733.808" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="381.868,724.630,386.493,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="386.611,724.630,391.236,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="391.243,724.630,395.868,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="395.986,724.630,400.611,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="400.618,724.630,405.243,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="405.250,724.630,409.874,733.808" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="409.993,724.630,414.617,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="414.625,724.630,419.249,733.808" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="419.257,724.630,423.881,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="424.000,724.630,428.624,733.808" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="428.631,724.630,433.256,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="433.374,724.630,437.999,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="438.006,724.630,442.631,733.808" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="442.638,724.630,447.263,733.808" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="447.381,724.630,452.006,733.808" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="452.013,724.630,456.637,733.808" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="456.756,724.630,461.380,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="461.388,724.630,466.012,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="466.020,724.630,470.644,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="470.763,724.630,475.387,733.808" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="475.394,724.630,480.019,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="480.026,724.630,484.651,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="484.769,724.630,489.394,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="489.401,724.630,494.026,733.808" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="494.144,724.630,498.769,733.808" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="498.776,724.630,503.400,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="503.408,724.630,508.032,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="508.151,724.630,512.775,733.808" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="512.783,724.630,517.407,733.808" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="517.526,724.630,522.150,733.808" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="522.157,724.630,526.782,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="526.789,724.630,531.414,733.808" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="531.532,724.630,536.157,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="536.164,724.630,540.789,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="540.796,724.630,545.420,733.808" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="545.539,724.630,550.163,733.808" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="550.171,724.630,554.795,733.808" size="9.178">j</text>
+<text font="CIDFont+F1" bbox="554.914,724.630,559.538,733.808" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="559.546,724.630,564.170,733.808" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="564.178,724.630,568.802,733.808" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="568.921,724.630,573.545,733.808" size="9.178"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="36.000,714.190,106.026,723.368">
+<text font="CIDFont+F1" bbox="36.000,714.190,40.624,723.368" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="40.632,714.190,45.256,723.368" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="45.375,714.190,49.999,723.368" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="50.007,714.190,54.631,723.368" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="54.639,714.190,59.263,723.368" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="59.382,714.190,64.006,723.368" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="64.013,714.190,68.638,723.368" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="68.756,714.190,73.381,723.368" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="73.388,714.190,78.013,723.368" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="78.020,714.190,82.644,723.368" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="82.763,714.190,87.387,723.368" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="87.395,714.190,92.019,723.368" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="92.138,714.190,96.762,723.368" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="96.770,714.190,101.394,723.368" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="101.402,714.190,106.026,723.368" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="36.000,682.870,568.802,702.488">
+<textline bbox="36.000,693.310,568.802,702.488">
+<text font="CIDFont+F1" bbox="36.000,693.310,40.624,702.488" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,693.310,45.256,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,693.310,49.999,702.488" size="9.178">G</text>
+<text font="CIDFont+F1" bbox="50.007,693.310,54.631,702.488" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="54.639,693.310,59.263,702.488" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="59.382,693.310,64.006,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="64.013,693.310,68.638,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="68.756,693.310,73.381,702.488" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="73.388,693.310,78.013,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="78.020,693.310,82.644,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="82.763,693.310,87.387,702.488" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="87.395,693.310,92.019,702.488" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="92.138,693.310,96.762,702.488" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="96.770,693.310,101.394,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="101.402,693.310,106.026,702.488" size="9.178">T</text>
+<text font="CIDFont+F1" bbox="106.145,693.310,110.769,702.488" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="110.776,693.310,115.401,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="115.408,693.310,120.033,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="120.151,693.310,124.776,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="124.783,693.310,129.407,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="129.526,693.310,134.150,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="134.158,693.310,138.782,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="138.790,693.310,143.414,702.488" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="143.533,693.310,148.157,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="148.165,693.310,152.789,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="152.908,693.310,157.532,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="157.539,693.310,162.164,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="162.171,693.310,166.796,702.488" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="166.914,693.310,171.539,702.488" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="171.546,693.310,176.170,702.488" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="176.178,693.310,180.802,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="180.921,693.310,185.545,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="185.553,693.310,190.177,702.488" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="190.296,693.310,194.920,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="194.928,693.310,199.552,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="199.559,693.310,204.184,702.488" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="204.302,693.310,208.927,702.488" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="208.934,693.310,213.559,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="213.677,693.310,218.302,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="218.309,693.310,222.933,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="222.941,693.310,227.565,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="227.684,693.310,232.308,702.488" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="232.316,693.310,236.940,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="236.948,693.310,241.572,702.488" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="241.691,693.310,246.315,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="246.322,693.310,250.947,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="251.065,693.310,255.690,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="255.697,693.310,260.322,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="260.329,693.310,264.954,702.488" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="265.072,693.310,269.697,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="269.704,693.310,274.328,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="274.447,693.310,279.071,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="279.079,693.310,283.703,702.488" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="283.711,693.310,288.335,702.488" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="288.454,693.310,293.078,702.488" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="293.085,693.310,297.710,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="297.717,693.310,302.342,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="302.460,693.310,307.085,702.488" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="307.092,693.310,311.717,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="311.835,693.310,316.460,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="316.467,693.310,321.091,702.488" size="9.178">q</text>
+<text font="CIDFont+F1" bbox="321.099,693.310,325.723,702.488" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="325.842,693.310,330.466,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="330.474,693.310,335.098,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="335.217,693.310,339.841,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="339.848,693.310,344.473,702.488" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="344.480,693.310,349.105,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="349.223,693.310,353.848,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="353.855,693.310,358.480,702.488" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="358.487,693.310,363.111,702.488" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="363.230,693.310,367.854,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="367.862,693.310,372.486,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="372.605,693.310,377.229,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="377.237,693.310,381.861,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="381.868,693.310,386.493,702.488" size="9.178">1</text>
+<text font="CIDFont+F1" bbox="386.611,693.310,391.236,702.488" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="391.243,693.310,395.868,702.488" size="9.178">3</text>
+<text font="CIDFont+F1" bbox="395.986,693.310,400.611,702.488" size="9.178">0</text>
+<text font="CIDFont+F1" bbox="400.618,693.310,405.243,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="405.250,693.310,409.874,702.488" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="409.993,693.310,414.617,702.488" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="414.625,693.310,419.249,702.488" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="419.257,693.310,423.881,702.488" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="424.000,693.310,428.624,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="428.631,693.310,433.256,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="433.374,693.310,437.999,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="438.006,693.310,442.631,702.488" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="442.638,693.310,447.263,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="447.381,693.310,452.006,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="452.013,693.310,456.637,702.488" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="456.756,693.310,461.380,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="461.388,693.310,466.012,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="466.020,693.310,470.644,702.488" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="470.763,693.310,475.387,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="475.394,693.310,480.019,702.488" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="480.026,693.310,484.651,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="484.769,693.310,489.394,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="489.401,693.310,494.026,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="494.144,693.310,498.769,702.488" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="498.776,693.310,503.400,702.488" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="503.408,693.310,508.032,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="508.151,693.310,512.775,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="512.783,693.310,517.407,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="517.526,693.310,522.150,702.488" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="522.157,693.310,526.782,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="526.789,693.310,531.414,702.488" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="531.532,693.310,536.157,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="536.164,693.310,540.789,702.488" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="540.796,693.310,545.420,702.488" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="545.539,693.310,550.163,702.488" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="550.171,693.310,554.795,702.488" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="554.914,693.310,559.538,702.488" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="559.546,693.310,564.170,702.488" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="564.178,693.310,568.802,702.488" size="9.178"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="36.000,682.870,92.019,692.048">
+<text font="CIDFont+F1" bbox="36.000,682.870,40.624,692.048" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="40.632,682.870,45.256,692.048" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="45.375,682.870,49.999,692.048" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="50.007,682.870,54.631,692.048" size="9.178">6</text>
+<text font="CIDFont+F1" bbox="54.639,682.870,59.263,692.048" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="59.382,682.870,64.006,692.048" size="9.178">3</text>
+<text font="CIDFont+F1" bbox="64.013,682.870,68.638,692.048" size="9.178">0</text>
+<text font="CIDFont+F1" bbox="68.756,682.870,73.381,692.048" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="73.388,682.870,78.013,692.048" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="78.020,682.870,82.644,692.048" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="82.763,682.870,87.387,692.048" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="87.395,682.870,92.019,692.048" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="36.000,661.990,470.644,671.168">
+<textline bbox="36.000,661.990,470.644,671.168">
+<text font="CIDFont+F1" bbox="36.000,661.990,40.624,671.168" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,661.990,45.256,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,661.990,49.999,671.168" size="9.178">B</text>
+<text font="CIDFont+F1" bbox="50.007,661.990,54.631,671.168" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="54.639,661.990,59.263,671.168" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="59.382,661.990,64.006,671.168" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="64.013,661.990,68.638,671.168" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="68.756,661.990,73.381,671.168" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="73.388,661.990,78.013,671.168" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="78.020,661.990,82.644,671.168" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="82.763,661.990,87.387,671.168" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="87.395,661.990,92.019,671.168" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="92.138,661.990,96.762,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="96.770,661.990,101.394,671.168" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="101.402,661.990,106.026,671.168" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="106.145,661.990,110.769,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="110.776,661.990,115.401,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="115.408,661.990,120.033,671.168" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="120.151,661.990,124.776,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="124.783,661.990,129.407,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="129.526,661.990,134.150,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="134.158,661.990,138.782,671.168" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="138.790,661.990,143.414,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="143.533,661.990,148.157,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="148.165,661.990,152.789,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="152.908,661.990,157.532,671.168" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="157.539,661.990,162.164,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="162.171,661.990,166.796,671.168" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="166.914,661.990,171.539,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="171.546,661.990,176.170,671.168" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="176.178,661.990,180.802,671.168" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="180.921,661.990,185.545,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="185.553,661.990,190.177,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="190.296,661.990,194.920,671.168" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="194.928,661.990,199.552,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="199.559,661.990,204.184,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="204.302,661.990,208.927,671.168" size="9.178">2</text>
+<text font="CIDFont+F1" bbox="208.934,661.990,213.559,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="213.677,661.990,218.302,671.168" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="218.309,661.990,222.933,671.168" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="222.941,661.990,227.565,671.168" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="227.684,661.990,232.308,671.168" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="232.316,661.990,236.940,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="236.948,661.990,241.572,671.168" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="241.691,661.990,246.315,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="246.322,661.990,250.947,671.168" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="251.065,661.990,255.690,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="255.697,661.990,260.322,671.168" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="260.329,661.990,264.954,671.168" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="265.072,661.990,269.697,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="269.704,661.990,274.328,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="274.447,661.990,279.071,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="279.079,661.990,283.703,671.168" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="283.711,661.990,288.335,671.168" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="288.454,661.990,293.078,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="293.085,661.990,297.710,671.168" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="297.717,661.990,302.342,671.168" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="302.460,661.990,307.085,671.168" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="307.092,661.990,311.717,671.168" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="311.835,661.990,316.460,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="316.467,661.990,321.091,671.168" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="321.099,661.990,325.723,671.168" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="325.842,661.990,330.466,671.168" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="330.474,661.990,335.098,671.168" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="335.217,661.990,339.841,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="339.848,661.990,344.473,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="344.480,661.990,349.105,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="349.223,661.990,353.848,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="353.855,661.990,358.480,671.168" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="358.487,661.990,363.111,671.168" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="363.230,661.990,367.854,671.168" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="367.862,661.990,372.486,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="372.605,661.990,377.229,671.168" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="377.237,661.990,381.861,671.168" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="381.868,661.990,386.493,671.168" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="386.611,661.990,391.236,671.168" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="391.243,661.990,395.868,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="395.986,661.990,400.611,671.168" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="400.618,661.990,405.243,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="405.250,661.990,409.874,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="409.993,661.990,414.617,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="414.625,661.990,419.249,671.168" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="419.257,661.990,423.881,671.168" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="424.000,661.990,428.624,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="428.631,661.990,433.256,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="433.374,661.990,437.999,671.168" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="438.006,661.990,442.631,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="442.638,661.990,447.263,671.168" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="447.381,661.990,452.006,671.168" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="452.013,661.990,456.637,671.168" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="456.756,661.990,461.380,671.168" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="461.388,661.990,466.012,671.168" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="466.020,661.990,470.644,671.168" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="36.000,641.110,363.111,650.288">
+<textline bbox="36.000,641.110,363.111,650.288">
+<text font="CIDFont+F1" bbox="36.000,641.110,40.624,650.288" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,641.110,45.256,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,641.110,49.999,650.288" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="50.007,641.110,54.631,650.288" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="54.639,641.110,59.263,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="59.382,641.110,64.006,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="64.013,641.110,68.638,650.288" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="68.756,641.110,73.381,650.288" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="73.388,641.110,78.013,650.288" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="78.020,641.110,82.644,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="82.763,641.110,87.387,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="87.395,641.110,92.019,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="92.138,641.110,96.762,650.288" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="96.770,641.110,101.394,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="101.402,641.110,106.026,650.288" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="106.145,641.110,110.769,650.288" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="110.776,641.110,115.401,650.288" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="115.408,641.110,120.033,650.288" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="120.151,641.110,124.776,650.288" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="124.783,641.110,129.407,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="129.526,641.110,134.150,650.288" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="134.158,641.110,138.782,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="138.790,641.110,143.414,650.288" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="143.533,641.110,148.157,650.288" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="148.165,641.110,152.789,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="152.908,641.110,157.532,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="157.539,641.110,162.164,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="162.171,641.110,166.796,650.288" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="166.914,641.110,171.539,650.288" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="171.546,641.110,176.170,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="176.178,641.110,180.802,650.288" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="180.921,641.110,185.545,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="185.553,641.110,190.177,650.288" size="9.178">I</text>
+<text font="CIDFont+F1" bbox="190.296,641.110,194.920,650.288" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="194.928,641.110,199.552,650.288" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="199.559,641.110,204.184,650.288" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="204.302,641.110,208.927,650.288" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="208.934,641.110,213.559,650.288" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="213.677,641.110,218.302,650.288" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="218.309,641.110,222.933,650.288" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="222.941,641.110,227.565,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="227.684,641.110,232.308,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="232.316,641.110,236.940,650.288" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="236.948,641.110,241.572,650.288" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="241.691,641.110,246.315,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="246.322,641.110,250.947,650.288" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="251.065,641.110,255.690,650.288" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="255.697,641.110,260.322,650.288" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="260.329,641.110,264.954,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="265.072,641.110,269.697,650.288" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="269.704,641.110,274.328,650.288" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="274.447,641.110,279.071,650.288" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="279.079,641.110,283.703,650.288" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="283.711,641.110,288.335,650.288" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="288.454,641.110,293.078,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="293.085,641.110,297.710,650.288" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="297.717,641.110,302.342,650.288" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="302.460,641.110,307.085,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="307.092,641.110,311.717,650.288" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="311.835,641.110,316.460,650.288" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="316.467,641.110,321.091,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="321.099,641.110,325.723,650.288" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="325.842,641.110,330.466,650.288" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="330.474,641.110,335.098,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="335.217,641.110,339.841,650.288" size="9.178">5</text>
+<text font="CIDFont+F1" bbox="339.848,641.110,344.473,650.288" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="344.480,641.110,349.105,650.288" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="349.223,641.110,353.848,650.288" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="353.855,641.110,358.480,650.288" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="358.487,641.110,363.111,650.288" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="36.000,609.790,568.802,629.408">
+<textline bbox="36.000,620.230,568.802,629.408">
+<text font="CIDFont+F1" bbox="36.000,620.230,40.624,629.408" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,620.230,45.256,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,620.230,49.999,629.408" size="9.178">K</text>
+<text font="CIDFont+F1" bbox="50.007,620.230,54.631,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="54.639,620.230,59.263,629.408" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="59.382,620.230,64.006,629.408" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="64.013,620.230,68.638,629.408" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="68.756,620.230,73.381,629.408" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="73.388,620.230,78.013,629.408" size="9.178">x</text>
+<text font="CIDFont+F1" bbox="78.020,620.230,82.644,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="82.763,620.230,87.387,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="87.395,620.230,92.019,629.408" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="92.138,620.230,96.762,629.408" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="96.770,620.230,101.394,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="101.402,620.230,106.026,629.408" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="106.145,620.230,110.769,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="110.776,620.230,115.401,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="115.408,620.230,120.033,629.408" size="9.178">6</text>
+<text font="CIDFont+F1" bbox="120.151,620.230,124.776,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="124.783,620.230,129.407,629.408" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="129.526,620.230,134.150,629.408" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="134.158,620.230,138.782,629.408" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="138.790,620.230,143.414,629.408" size="9.178">.</text>
+<text font="CIDFont+F1" bbox="143.533,620.230,148.157,629.408" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="148.165,620.230,152.789,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="152.908,620.230,157.532,629.408" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="157.539,620.230,162.164,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="162.171,620.230,166.796,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="166.914,620.230,171.539,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="171.546,620.230,176.170,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="176.178,620.230,180.802,629.408" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="180.921,620.230,185.545,629.408" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="185.553,620.230,190.177,629.408" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="190.296,620.230,194.920,629.408" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="194.928,620.230,199.552,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="199.559,620.230,204.184,629.408" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="204.302,620.230,208.927,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="208.934,620.230,213.559,629.408" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="213.677,620.230,218.302,629.408" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="218.309,620.230,222.933,629.408" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="222.941,620.230,227.565,629.408" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="227.684,620.230,232.308,629.408" size="9.178">x</text>
+<text font="CIDFont+F1" bbox="232.316,620.230,236.940,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="236.948,620.230,241.572,629.408" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="241.691,620.230,246.315,629.408" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="246.322,620.230,250.947,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="251.065,620.230,255.690,629.408" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="255.697,620.230,260.322,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="260.329,620.230,264.954,629.408" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="265.072,620.230,269.697,629.408" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="269.704,620.230,274.328,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="274.447,620.230,279.071,629.408" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="279.079,620.230,283.703,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="283.711,620.230,288.335,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="288.454,620.230,293.078,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="293.085,620.230,297.710,629.408" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="297.717,620.230,302.342,629.408" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="302.460,620.230,307.085,629.408" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="307.092,620.230,311.717,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="311.835,620.230,316.460,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="316.467,620.230,321.091,629.408" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="321.099,620.230,325.723,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="325.842,620.230,330.466,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="330.474,620.230,335.098,629.408" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="335.217,620.230,339.841,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="339.848,620.230,344.473,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="344.480,620.230,349.105,629.408" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="349.223,620.230,353.848,629.408" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="353.855,620.230,358.480,629.408" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="358.487,620.230,363.111,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="363.230,620.230,367.854,629.408" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="367.862,620.230,372.486,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="372.605,620.230,377.229,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="377.237,620.230,381.861,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="381.868,620.230,386.493,629.408" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="386.611,620.230,391.236,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="391.243,620.230,395.868,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="395.986,620.230,400.611,629.408" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="400.618,620.230,405.243,629.408" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="405.250,620.230,409.874,629.408" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="409.993,620.230,414.617,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="414.625,620.230,419.249,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="419.257,620.230,423.881,629.408" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="424.000,620.230,428.624,629.408" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="428.631,620.230,433.256,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="433.374,620.230,437.999,629.408" size="9.178">4</text>
+<text font="CIDFont+F1" bbox="438.006,620.230,442.631,629.408" size="9.178">8</text>
+<text font="CIDFont+F1" bbox="442.638,620.230,447.263,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="447.381,620.230,452.006,629.408" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="452.013,620.230,456.637,629.408" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="456.756,620.230,461.380,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="461.388,620.230,466.012,629.408" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="466.020,620.230,470.644,629.408" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="470.763,620.230,475.387,629.408" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="475.394,620.230,480.019,629.408" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="480.026,620.230,484.651,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="484.769,620.230,489.394,629.408" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="489.401,620.230,494.026,629.408" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="494.144,620.230,498.769,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="498.776,620.230,503.400,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="503.408,620.230,508.032,629.408" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="508.151,620.230,512.775,629.408" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="512.783,620.230,517.407,629.408" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="517.526,620.230,522.150,629.408" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="522.157,620.230,526.782,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="526.789,620.230,531.414,629.408" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="531.532,620.230,536.157,629.408" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="536.164,620.230,540.789,629.408" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="540.796,620.230,545.420,629.408" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="545.539,620.230,550.163,629.408" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="550.171,620.230,554.795,629.408" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="554.914,620.230,559.538,629.408" size="9.178">5</text>
+<text font="CIDFont+F1" bbox="559.546,620.230,564.170,629.408" size="9.178">1</text>
+<text font="CIDFont+F1" bbox="564.178,620.230,568.802,629.408" size="9.178"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="36.000,609.790,358.480,618.968">
+<text font="CIDFont+F1" bbox="36.000,609.790,40.624,618.968" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="40.632,609.790,45.256,618.968" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="45.375,609.790,49.999,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="50.007,609.790,54.631,618.968" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="54.639,609.790,59.263,618.968" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="59.382,609.790,64.006,618.968" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="64.013,609.790,68.638,618.968" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="68.756,609.790,73.381,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="73.388,609.790,78.013,618.968" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="78.020,609.790,82.644,618.968" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="82.763,609.790,87.387,618.968" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="87.395,609.790,92.019,618.968" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="92.138,609.790,96.762,618.968" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="96.770,609.790,101.394,618.968" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="101.402,609.790,106.026,618.968" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="106.145,609.790,110.769,618.968" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="110.776,609.790,115.401,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="115.408,609.790,120.033,618.968" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="120.151,609.790,124.776,618.968" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="124.783,609.790,129.407,618.968" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="129.526,609.790,134.150,618.968" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="134.158,609.790,138.782,618.968" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="138.790,609.790,143.414,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="143.533,609.790,148.157,618.968" size="9.178">6</text>
+<text font="CIDFont+F1" bbox="148.165,609.790,152.789,618.968" size="9.178">0</text>
+<text font="CIDFont+F1" bbox="152.908,609.790,157.532,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="157.539,609.790,162.164,618.968" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="162.171,609.790,166.796,618.968" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="166.914,609.790,171.539,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="171.546,609.790,176.170,618.968" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="176.178,609.790,180.802,618.968" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="180.921,609.790,185.545,618.968" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="185.553,609.790,190.177,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="190.296,609.790,194.920,618.968" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="194.928,609.790,199.552,618.968" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="199.559,609.790,204.184,618.968" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="204.302,609.790,208.927,618.968" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="208.934,609.790,213.559,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="213.677,609.790,218.302,618.968" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="218.309,609.790,222.933,618.968" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="222.941,609.790,227.565,618.968" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="227.684,609.790,232.308,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="232.316,609.790,236.940,618.968" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="236.948,609.790,241.572,618.968" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="241.691,609.790,246.315,618.968" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="246.322,609.790,250.947,618.968" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="251.065,609.790,255.690,618.968" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="255.697,609.790,260.322,618.968" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="260.329,609.790,264.954,618.968" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="265.072,609.790,269.697,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="269.704,609.790,274.328,618.968" size="9.178">6</text>
+<text font="CIDFont+F1" bbox="274.447,609.790,279.071,618.968" size="9.178">5</text>
+<text font="CIDFont+F1" bbox="279.079,609.790,283.703,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="283.711,609.790,288.335,618.968" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="288.454,609.790,293.078,618.968" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="293.085,609.790,297.710,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="297.717,609.790,302.342,618.968" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="302.460,609.790,307.085,618.968" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="307.092,609.790,311.717,618.968" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="311.835,609.790,316.460,618.968" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="316.467,609.790,321.091,618.968" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="321.099,609.790,325.723,618.968" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="325.842,609.790,330.466,618.968" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="330.474,609.790,335.098,618.968" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="335.217,609.790,339.841,618.968" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="339.848,609.790,344.473,618.968" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="344.480,609.790,349.105,618.968" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="349.223,609.790,353.848,618.968" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="353.855,609.790,358.480,618.968" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="36.000,588.910,381.861,598.088">
+<textline bbox="36.000,588.910,381.861,598.088">
+<text font="CIDFont+F1" bbox="36.000,588.910,40.624,598.088" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,588.910,45.256,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,588.910,49.999,598.088" size="9.178">T</text>
+<text font="CIDFont+F1" bbox="50.007,588.910,54.631,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="54.639,588.910,59.263,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="59.382,588.910,64.006,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="64.013,588.910,68.638,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="68.756,588.910,73.381,598.088" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="73.388,588.910,78.013,598.088" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="78.020,588.910,82.644,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="82.763,588.910,87.387,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="87.395,588.910,92.019,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="92.138,588.910,96.762,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="96.770,588.910,101.394,598.088" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="101.402,588.910,106.026,598.088" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="106.145,588.910,110.769,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="110.776,588.910,115.401,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="115.408,588.910,120.033,598.088" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="120.151,588.910,124.776,598.088" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="124.783,588.910,129.407,598.088" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="129.526,588.910,134.150,598.088" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="134.158,588.910,138.782,598.088" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="138.790,588.910,143.414,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="143.533,588.910,148.157,598.088" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="148.165,588.910,152.789,598.088" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="152.908,588.910,157.532,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="157.539,588.910,162.164,598.088" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="162.171,588.910,166.796,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="166.914,588.910,171.539,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="171.546,588.910,176.170,598.088" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="176.178,588.910,180.802,598.088" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="180.921,588.910,185.545,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="185.553,588.910,190.177,598.088" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="190.296,588.910,194.920,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="194.928,588.910,199.552,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="199.559,588.910,204.184,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="204.302,588.910,208.927,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="208.934,588.910,213.559,598.088" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="213.677,588.910,218.302,598.088" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="218.309,588.910,222.933,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="222.941,588.910,227.565,598.088" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="227.684,588.910,232.308,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="232.316,588.910,236.940,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="236.948,588.910,241.572,598.088" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="241.691,588.910,246.315,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="246.322,588.910,250.947,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="251.065,588.910,255.690,598.088" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="255.697,588.910,260.322,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="260.329,588.910,264.954,598.088" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="265.072,588.910,269.697,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="269.704,588.910,274.328,598.088" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="274.447,588.910,279.071,598.088" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="279.079,588.910,283.703,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="283.711,588.910,288.335,598.088" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="288.454,588.910,293.078,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="293.085,588.910,297.710,598.088" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="297.717,588.910,302.342,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="302.460,588.910,307.085,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="307.092,588.910,311.717,598.088" size="9.178">I</text>
+<text font="CIDFont+F1" bbox="311.835,588.910,316.460,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="316.467,588.910,321.091,598.088" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="321.099,588.910,325.723,598.088" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="325.842,588.910,330.466,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="330.474,588.910,335.098,598.088" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="335.217,588.910,339.841,598.088" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="339.848,588.910,344.473,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="344.480,588.910,349.105,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="349.223,588.910,353.848,598.088" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="353.855,588.910,358.480,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="358.487,588.910,363.111,598.088" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="363.230,588.910,367.854,598.088" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="367.862,588.910,372.486,598.088" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="372.605,588.910,377.229,598.088" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="377.237,588.910,381.861,598.088" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="36.000,557.590,559.538,577.208">
+<textline bbox="36.000,568.030,559.538,577.208">
+<text font="CIDFont+F1" bbox="36.000,568.030,40.624,577.208" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,568.030,45.256,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,568.030,49.999,577.208" size="9.178">S</text>
+<text font="CIDFont+F1" bbox="50.007,568.030,54.631,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="54.639,568.030,59.263,577.208" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="59.382,568.030,64.006,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="64.013,568.030,68.638,577.208" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="68.756,568.030,73.381,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="73.388,568.030,78.013,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="78.020,568.030,82.644,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="82.763,568.030,87.387,577.208" size="9.178">k</text>
+<text font="CIDFont+F1" bbox="87.395,568.030,92.019,577.208" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="92.138,568.030,96.762,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="96.770,568.030,101.394,577.208" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="101.402,568.030,106.026,577.208" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="106.145,568.030,110.769,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="110.776,568.030,115.401,577.208" size="9.178">C</text>
+<text font="CIDFont+F1" bbox="115.408,568.030,120.033,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="120.151,568.030,124.776,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="124.783,568.030,129.407,577.208" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="129.526,568.030,134.150,577.208" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="134.158,568.030,138.782,577.208" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="138.790,568.030,143.414,577.208" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="143.533,568.030,148.157,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="148.165,568.030,152.789,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="152.908,568.030,157.532,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="157.539,568.030,162.164,577.208" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="162.171,568.030,166.796,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="166.914,568.030,171.539,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="171.546,568.030,176.170,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="176.178,568.030,180.802,577.208" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="180.921,568.030,185.545,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="185.553,568.030,190.177,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="190.296,568.030,194.920,577.208" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="194.928,568.030,199.552,577.208" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="199.559,568.030,204.184,577.208" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="204.302,568.030,208.927,577.208" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="208.934,568.030,213.559,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="213.677,568.030,218.302,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="218.309,568.030,222.933,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="222.941,568.030,227.565,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="227.684,568.030,232.308,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="232.316,568.030,236.940,577.208" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="236.948,568.030,241.572,577.208" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="241.691,568.030,246.315,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="246.322,568.030,250.947,577.208" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="251.065,568.030,255.690,577.208" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="255.697,568.030,260.322,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="260.329,568.030,264.954,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="265.072,568.030,269.697,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="269.704,568.030,274.328,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="274.447,568.030,279.071,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="279.079,568.030,283.703,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="283.711,568.030,288.335,577.208" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="288.454,568.030,293.078,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="293.085,568.030,297.710,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="297.717,568.030,302.342,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="302.460,568.030,307.085,577.208" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="307.092,568.030,311.717,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="311.835,568.030,316.460,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="316.467,568.030,321.091,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="321.099,568.030,325.723,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="325.842,568.030,330.466,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="330.474,568.030,335.098,577.208" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="335.217,568.030,339.841,577.208" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="339.848,568.030,344.473,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="344.480,568.030,349.105,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="349.223,568.030,353.848,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="353.855,568.030,358.480,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="358.487,568.030,363.111,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="363.230,568.030,367.854,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="367.862,568.030,372.486,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="372.605,568.030,377.229,577.208" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="377.237,568.030,381.861,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="381.868,568.030,386.493,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="386.611,568.030,391.236,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="391.243,568.030,395.868,577.208" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="395.986,568.030,400.611,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="400.618,568.030,405.243,577.208" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="405.250,568.030,409.874,577.208" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="409.993,568.030,414.617,577.208" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="414.625,568.030,419.249,577.208" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="419.257,568.030,423.881,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="424.000,568.030,428.624,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="428.631,568.030,433.256,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="433.374,568.030,437.999,577.208" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="438.006,568.030,442.631,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="442.638,568.030,447.263,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="447.381,568.030,452.006,577.208" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="452.013,568.030,456.637,577.208" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="456.756,568.030,461.380,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="461.388,568.030,466.012,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="466.020,568.030,470.644,577.208" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="470.763,568.030,475.387,577.208" size="9.178">’</text>
+<text font="CIDFont+F1" bbox="475.394,568.030,480.019,577.208" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="480.026,568.030,484.651,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="484.769,568.030,489.394,577.208" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="489.401,568.030,494.026,577.208" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="494.144,568.030,498.769,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="498.776,568.030,503.400,577.208" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="503.408,568.030,508.032,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="508.151,568.030,512.775,577.208" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="512.783,568.030,517.407,577.208" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="517.526,568.030,522.150,577.208" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="522.157,568.030,526.782,577.208" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="526.789,568.030,531.414,577.208" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="531.532,568.030,536.157,577.208" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="536.164,568.030,540.789,577.208" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="540.796,568.030,545.420,577.208" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="545.539,568.030,550.163,577.208" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="550.171,568.030,554.795,577.208" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="554.914,568.030,559.538,577.208" size="9.178"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="36.000,557.590,101.394,566.768">
+<text font="CIDFont+F1" bbox="36.000,557.590,40.624,566.768" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="40.632,557.590,45.256,566.768" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="45.375,557.590,49.999,566.768" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="50.007,557.590,54.631,566.768" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="54.639,557.590,59.263,566.768" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="59.382,557.590,64.006,566.768" size="9.178">T</text>
+<text font="CIDFont+F1" bbox="64.013,557.590,68.638,566.768" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="68.756,557.590,73.381,566.768" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="73.388,557.590,78.013,566.768" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="78.020,557.590,82.644,566.768" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="82.763,557.590,87.387,566.768" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="87.395,557.590,92.019,566.768" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="92.138,557.590,96.762,566.768" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="96.770,557.590,101.394,566.768" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="36.000,536.710,456.637,545.888">
+<textline bbox="36.000,536.710,456.637,545.888">
+<text font="CIDFont+F1" bbox="36.000,536.710,40.624,545.888" size="9.178">-</text>
+<text font="CIDFont+F1" bbox="40.632,536.710,45.256,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="45.375,536.710,49.999,545.888" size="9.178">C</text>
+<text font="CIDFont+F1" bbox="50.007,536.710,54.631,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="54.639,536.710,59.263,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="59.382,536.710,64.006,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="64.013,536.710,68.638,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="68.756,536.710,73.381,545.888" size="9.178">:</text>
+<text font="CIDFont+F1" bbox="73.388,536.710,78.013,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="78.020,536.710,82.644,545.888" size="9.178">C</text>
+<text font="CIDFont+F1" bbox="82.763,536.710,87.387,545.888" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="87.395,536.710,92.019,545.888" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="92.138,536.710,96.762,545.888" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="96.770,536.710,101.394,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="101.402,536.710,106.026,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="106.145,536.710,110.769,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="110.776,536.710,115.401,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="115.408,536.710,120.033,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="120.151,536.710,124.776,545.888" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="124.783,536.710,129.407,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="129.526,536.710,134.150,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="134.158,536.710,138.782,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="138.790,536.710,143.414,545.888" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="143.533,536.710,148.157,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="148.165,536.710,152.789,545.888" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="152.908,536.710,157.532,545.888" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="157.539,536.710,162.164,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="162.171,536.710,166.796,545.888" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="166.914,536.710,171.539,545.888" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="171.546,536.710,176.170,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="176.178,536.710,180.802,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="180.921,536.710,185.545,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="185.553,536.710,190.177,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="190.296,536.710,194.920,545.888" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="194.928,536.710,199.552,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="199.559,536.710,204.184,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="204.302,536.710,208.927,545.888" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="208.934,536.710,213.559,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="213.677,536.710,218.302,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="218.309,536.710,222.933,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="222.941,536.710,227.565,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="227.684,536.710,232.308,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="232.316,536.710,236.940,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="236.948,536.710,241.572,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="241.691,536.710,246.315,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="246.322,536.710,250.947,545.888" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="251.065,536.710,255.690,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="255.697,536.710,260.322,545.888" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="260.329,536.710,264.954,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="265.072,536.710,269.697,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="269.704,536.710,274.328,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="274.447,536.710,279.071,545.888" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="279.079,536.710,283.703,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="283.711,536.710,288.335,545.888" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="288.454,536.710,293.078,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="293.085,536.710,297.710,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="297.717,536.710,302.342,545.888" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="302.460,536.710,307.085,545.888" size="9.178">x</text>
+<text font="CIDFont+F1" bbox="307.092,536.710,311.717,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="311.835,536.710,316.460,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="316.467,536.710,321.091,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="321.099,536.710,325.723,545.888" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="325.842,536.710,330.466,545.888" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="330.474,536.710,335.098,545.888" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="335.217,536.710,339.841,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="339.848,536.710,344.473,545.888" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="344.480,536.710,349.105,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="349.223,536.710,353.848,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="353.855,536.710,358.480,545.888" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="358.487,536.710,363.111,545.888" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="363.230,536.710,367.854,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="367.862,536.710,372.486,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="372.605,536.710,377.229,545.888" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="377.237,536.710,381.861,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="381.868,536.710,386.493,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="386.611,536.710,391.236,545.888" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="391.243,536.710,395.868,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="395.986,536.710,400.611,545.888" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="400.618,536.710,405.243,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="405.250,536.710,409.874,545.888" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="409.993,536.710,414.617,545.888" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="414.625,536.710,419.249,545.888" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="419.257,536.710,423.881,545.888" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="424.000,536.710,428.624,545.888" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="428.631,536.710,433.256,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="433.374,536.710,437.999,545.888" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="438.006,536.710,442.631,545.888" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="442.638,536.710,447.263,545.888" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="447.381,536.710,452.006,545.888" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="452.013,536.710,456.637,545.888" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="36.000,515.830,498.769,525.008">
+<textline bbox="36.000,515.830,498.769,525.008">
+<text font="CIDFont+F1" bbox="36.000,515.830,40.624,525.008" size="9.178">V</text>
+<text font="CIDFont+F1" bbox="40.632,515.830,45.256,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="45.375,515.830,49.999,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="50.007,515.830,54.631,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="54.639,515.830,59.263,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="59.382,515.830,64.006,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="64.013,515.830,68.638,525.008" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="68.756,515.830,73.381,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="73.388,515.830,78.013,525.008" size="9.178">w</text>
+<text font="CIDFont+F1" bbox="78.020,515.830,82.644,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="82.763,515.830,87.387,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="87.395,515.830,92.019,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="92.138,515.830,96.762,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="96.770,515.830,101.394,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="101.402,515.830,106.026,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="106.145,515.830,110.769,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="110.776,515.830,115.401,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="115.408,515.830,120.033,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="120.151,515.830,124.776,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="124.783,515.830,129.407,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="129.526,515.830,134.150,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="134.158,515.830,138.782,525.008" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="138.790,515.830,143.414,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="143.533,515.830,148.157,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="148.165,515.830,152.789,525.008" size="9.178">c</text>
+<text font="CIDFont+F1" bbox="152.908,515.830,157.532,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="157.539,515.830,162.164,525.008" size="9.178">m</text>
+<text font="CIDFont+F1" bbox="162.171,515.830,166.796,525.008" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="166.914,515.830,171.539,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="171.546,515.830,176.170,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="176.178,515.830,180.802,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="180.921,515.830,185.545,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="185.553,515.830,190.177,525.008" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="190.296,515.830,194.920,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="194.928,515.830,199.552,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="199.559,515.830,204.184,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="204.302,515.830,208.927,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="208.934,515.830,213.559,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="213.677,515.830,218.302,525.008" size="9.178">h</text>
+<text font="CIDFont+F1" bbox="218.309,515.830,222.933,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="222.941,515.830,227.565,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="227.684,515.830,232.308,525.008" size="9.178">q</text>
+<text font="CIDFont+F1" bbox="232.316,515.830,236.940,525.008" size="9.178">u</text>
+<text font="CIDFont+F1" bbox="236.948,515.830,241.572,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="241.691,515.830,246.315,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="246.322,515.830,250.947,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="251.065,515.830,255.690,525.008" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="255.697,515.830,260.322,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="260.329,515.830,264.954,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="265.072,515.830,269.697,525.008" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="269.704,515.830,274.328,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="274.447,515.830,279.071,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="279.079,515.830,283.703,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="283.711,515.830,288.335,525.008" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="288.454,515.830,293.078,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="293.085,515.830,297.710,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="297.717,515.830,302.342,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="302.460,515.830,307.085,525.008" size="9.178">b</text>
+<text font="CIDFont+F1" bbox="307.092,515.830,311.717,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="311.835,515.830,316.460,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="316.467,515.830,321.091,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="321.099,515.830,325.723,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="325.842,515.830,330.466,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="330.474,515.830,335.098,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="335.217,515.830,339.841,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="339.848,515.830,344.473,525.008" size="9.178">i</text>
+<text font="CIDFont+F1" bbox="344.480,515.830,349.105,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="349.223,515.830,353.848,525.008" size="9.178">,</text>
+<text font="CIDFont+F1" bbox="353.855,515.830,358.480,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="358.487,515.830,363.111,525.008" size="9.178">g</text>
+<text font="CIDFont+F1" bbox="363.230,515.830,367.854,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="367.862,515.830,372.486,525.008" size="9.178">l</text>
+<text font="CIDFont+F1" bbox="372.605,515.830,377.229,525.008" size="9.178">f</text>
+<text font="CIDFont+F1" bbox="377.237,515.830,381.861,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="381.868,515.830,386.493,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="386.611,515.830,391.236,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="391.243,515.830,395.868,525.008" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="395.986,515.830,400.611,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="400.618,515.830,405.243,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="405.250,515.830,409.874,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="409.993,515.830,414.617,525.008" size="9.178">p</text>
+<text font="CIDFont+F1" bbox="414.625,515.830,419.249,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="419.257,515.830,423.881,525.008" size="9.178">r</text>
+<text font="CIDFont+F1" bbox="424.000,515.830,428.624,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="428.631,515.830,433.256,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="433.374,515.830,437.999,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="438.006,515.830,442.631,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="442.638,515.830,447.263,525.008" size="9.178">v</text>
+<text font="CIDFont+F1" bbox="447.381,515.830,452.006,525.008" size="9.178">e</text>
+<text font="CIDFont+F1" bbox="452.013,515.830,456.637,525.008" size="9.178">n</text>
+<text font="CIDFont+F1" bbox="456.756,515.830,461.380,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="461.388,515.830,466.012,525.008" size="9.178">s</text>
+<text font="CIDFont+F1" bbox="466.020,515.830,470.644,525.008" size="9.178"> </text>
+<text font="CIDFont+F1" bbox="470.763,515.830,475.387,525.008" size="9.178">t</text>
+<text font="CIDFont+F1" bbox="475.394,515.830,480.019,525.008" size="9.178">o</text>
+<text font="CIDFont+F1" bbox="480.026,515.830,484.651,525.008" size="9.178">d</text>
+<text font="CIDFont+F1" bbox="484.769,515.830,489.394,525.008" size="9.178">a</text>
+<text font="CIDFont+F1" bbox="489.401,515.830,494.026,525.008" size="9.178">y</text>
+<text font="CIDFont+F1" bbox="494.144,515.830,498.769,525.008" size="9.178">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<layout>
+<textgroup bbox="36.000,515.830,573.545,754.688">
+<textgroup bbox="36.000,682.870,573.545,754.688">
+<textbox id="0" bbox="36.000,745.510,437.999,754.688" />
+<textgroup bbox="36.000,682.870,573.545,733.808">
+<textbox id="1" bbox="36.000,714.190,573.545,733.808" />
+<textbox id="2" bbox="36.000,682.870,568.802,702.488" />
+</textgroup>
+</textgroup>
+<textgroup bbox="36.000,515.830,568.802,671.168">
+<textgroup bbox="36.000,641.110,470.644,671.168">
+<textbox id="3" bbox="36.000,661.990,470.644,671.168" />
+<textbox id="4" bbox="36.000,641.110,363.111,650.288" />
+</textgroup>
+<textgroup bbox="36.000,515.830,568.802,629.408">
+<textgroup bbox="36.000,557.590,568.802,629.408">
+<textbox id="5" bbox="36.000,609.790,568.802,629.408" />
+<textgroup bbox="36.000,557.590,559.538,598.088">
+<textbox id="6" bbox="36.000,588.910,381.861,598.088" />
+<textbox id="7" bbox="36.000,557.590,559.538,577.208" />
+</textgroup>
+</textgroup>
+<textgroup bbox="36.000,515.830,498.769,545.888">
+<textbox id="8" bbox="36.000,536.710,456.637,545.888" />
+<textbox id="9" bbox="36.000,515.830,498.769,525.008" />
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
+</pages>

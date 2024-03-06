@@ -1,0 +1,40 @@
+__init__.py:6:1: E265 block comment should start with '# '
+#from web_service.config import Config
+^
+    Separate inline comments by at least two spaces.
+
+    An inline comment is a comment on the same line as a statement.
+    Inline comments should be separated by at least two spaces from the
+    statement. They should start with a # and a single space.
+
+    Each line of a block comment starts with a # and a single space
+    (unless it is indented text inside the comment).
+
+    Okay: x = x + 1  # Increment x
+    Okay: x = x + 1    # Increment x
+    Okay: # Block comment
+    E261: x = x + 1 # Increment x
+    E262: x = x + 1  #Increment x
+    E262: x = x + 1  #  Increment x
+    E265: #Block comment
+    E266: ### Block comment
+__init__.py:11:5: E265 block comment should start with '# '
+    #app.config.from_object(Config)
+    ^
+    Separate inline comments by at least two spaces.
+
+    An inline comment is a comment on the same line as a statement.
+    Inline comments should be separated by at least two spaces from the
+    statement. They should start with a # and a single space.
+
+    Each line of a block comment starts with a # and a single space
+    (unless it is indented text inside the comment).
+
+    Okay: x = x + 1  # Increment x
+    Okay: x = x + 1    # Increment x
+    Okay: # Block comment
+    E261: x = x + 1 # Increment x
+    E262: x = x + 1  #Increment x
+    E262: x = x + 1  #  Increment x
+    E265: #Block comment
+    E266: ### Block comment

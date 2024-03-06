@@ -1,0 +1,28 @@
+version: '3.7'
+
+services:
+
+  app:
+    build: ./flask
+    container_name: flask
+    restart: always
+    environment:
+      #- APP_NAME=flask_app
+      - FLASK_APP=app.py
+    expose:
+      - 8888
+
+  webserver:
+    build: ./nginx
+    image: nginx:latest
+    container_name: nginx
+    restart: always
+    ports:
+      - "90:90"
+  # grobid:
+  #   image: lfoppiano/grobid:0.7.1
+  #   container_name: 'grobid'
+  #   ports:
+  #     - "8070:8070"
+  #     - "8071:8071"
+

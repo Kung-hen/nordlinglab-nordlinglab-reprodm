@@ -1,0 +1,73 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+    %}
+
+    
+    <body>
+        <h1>Sci-info Course Project</h1>
+        <form method='POST' enctype='multipart/form-data'>
+            {{form.hidden_tag()}}
+            {{form.file()}}
+            {{form.submit()}}
+        </form>
+    </body>
+
+    <body>
+        <h1>Title:</h1>
+        <ul>
+            <h4>{{title}}</h4>
+        </ul>
+    </body>
+    
+
+        {{assess_code}} </br>
+    </body>
+
+    <body> {{assess_data}} </br> </body>
+
+    <body> {{assess_method}} </br></body>
+
+    
+    <body>
+        <h2>Author:</h2>
+        <ul>
+            {{author}}
+        </ul>
+    </body>
+
+    <body>
+        <h2>Useful information:</h2>
+        <ul>
+            <li>doi:<a href="url">{{doi}}</a></li>
+            <li>Number of citations: {{citation_count}}</li>
+        </ul>
+    </body>    
+
+    <body>
+        <h2>Abstract:</h2>
+        <ul>
+            {{abstract}}
+        </ul>
+    </body>
+
+    <body>
+        <h2>URL's found:</h2>
+        <ul>
+            {% for url in urls %}
+            <li><a href="url">{{ url }}</a></br></li>
+            {% endfor %}
+        </ul>       
+    </body>
+
+    <body>
+        <h2>other information</h2>
+        <ul>
+            <li><a href="/get_csv">Download: pdf to xml file</a></br></li>
+            <li><a href="/get_data">Download: record of assessed papers</a></br></li>
+        </ul>       
+    </body>
+
+
+    
+    
+    {% endblock %}
+    

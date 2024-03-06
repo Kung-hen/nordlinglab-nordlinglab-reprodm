@@ -1,0 +1,29 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+    %}
+
+    
+    <body>
+        <h1>Sci-info Course Project</h1>
+        <h2>Please upload your pdf to extract URL's</h2>
+    
+        <form method='POST' enctype='multipart/form-data'>
+            {{form.hidden_tag()}}
+            {{form.file()}}
+            {{form.submit()}}
+        </form>
+
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <ul class="flash">
+            {% for message in messages %}
+                <br><li><font size="5">{{ message }}</font></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+
+    </body>
+    
+    
+    {% endblock %}
+    

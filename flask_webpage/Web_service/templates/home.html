@@ -1,0 +1,18 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+    %}
+
+    
+    <body>
+        <h1>Sci-info Course Project</h1>
+        <h2>Please upload your pdf to extract URL's</h2>
+    
+        <form method='POST' enctype='multipart/form-data'>
+            {{form.hidden_tag()}}
+            {{form.file()}}
+            {{form.submit()}}
+        </form>
+    </body>
+    
+    
+    {% endblock %}
+    

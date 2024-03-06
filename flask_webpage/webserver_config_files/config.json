@@ -1,0 +1,4 @@
+{
+    "SECRET_KEY": "YOUR_SECRET_KEY",
+    "UPLOAD_FOLDER": "reprod_service/web_service/static/files"
+}

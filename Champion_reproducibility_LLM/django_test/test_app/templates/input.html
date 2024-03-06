@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<!-- <head>
+    <title>Input Page</title>
+
+    <style>
+        body {background: url(https://p1.pxfuel.com/preview/966/334/535/dark-night-nature-clouds-sky.jpg);
+            /* background-size: cover; */
+            background-repeat: repeat;}
+        h1 {
+        color: rgb(225, 183, 246);
+        }
+    </style>
+</head>
+<body>
+    <h1>Please input result and discussion section</h1>
+    <form method="POST" action="/input/">
+        {% csrf_token %}
+        <label for="input1">Input 1:</label>
+        <input type="text" id="input1" name="input1">
+        <button type="submit">Submit</button>
+    </form>
+
+    <h1>Please input method, result and discussion section</h1>
+    <form method="POST" action="/input/">
+        {% csrf_token %}
+        <label for="input2">Input 2:</label>
+        <input type="text" id="input2" name="input2">
+        <button type="submit">Submit</button>
+    </form>
+</body> -->
+<head>
+    <title>Input Page</title>
+
+    <style>
+        body {
+            background: url(https://www.nordlinglab.org/wp-content/uploads/2018/03/cropped-TNL_FL_Tofficial.png), url(data:image/jpeg;base64,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7Z+0DB1rxOVo1BqWyq+mpLlW1RyjvtBK5JU9wVbBHuJIdV6lYt2l09ewPqd7F2BKqlahmwoIyxyAOeOT9pH/APJNflvX59mLKVpY7awdqNvDcLyxOck5zkyW1vRxY9Fu9q7tNnY6heQy7XVlIwVIA/LHBgQ1/X7tLe6anFtaabzn8lMYPmsm/wBTcLsAJGTyTjMkbfFFC2ivLH1IjOANitaAa1OSG5yOQCBuGSJh1HhYWGw2ai1mtoOndiEzsaxnJHp4OWIHsABxM2k8Oiu02JdYu/YbF21lWatQoOSpK5CjIB/LEDHT4spYqClte7zQGdRtzQCbVyrHkBSfg475mz0rr6ah9iVWqfLS0FggBSz6G4YnnB4xxjnEjbvCxRFNdtj2UG+ypTsUM96sGDHbwMscfGecz58J9L1GncqyKlPlKCWSpbTYpAUZrdtyhd31e5GPeBg6N4jv1JSpWpF++xrRsYAVVvsGxS/Ls2Oc4HOewzJ0+KanWtlS0i6uy1PSuSKiQ4Pq4bjj8xzMNHhJEFJS+xbNPY9iOAm4+YcujcYKE+3855p/B6J5YXUXbaktStSEIVbsluduSQTwT8QMg8YafazsLa1FSXLuQZdLGFaFQCeS5C847/HMzHrm+rWNWj12aQMGFgUjeqb8YRzkYx7jvxIrqnhRlqxS72OtFelCHyxmpLVZj6gAX2g8EgHtx3m/0Hpti16iq9VFNhwgCJW7BlxYXFbEZOcA5zxz7QMNXXrQujd9hW/SvfcEQ7solb4TL4A9Z75+n7xq/FiGm161srddOuoQuikFHOFfaHG4A5yMjPtmbNXhpVREN1jCuh9PUSEyiOFDHhRufCqAT8duTMFng9GQp59m06ZNJ2XPlo2VPb6+4z9+0DaXxLX6wUsBqsFb5CDBKGzdjd9AQFs/H5GazeNNOEd9tuERLMYQsyWPsVwA3bcQCDgjI4m3/wAt1G17XLObKRS69lbAKl8D98qSufYdu5mtZ4WB050zam414RVO2oMBWyuvIQZOVUEn2H5mBn/5lTzRT5N4uIJ2FVVtofZvAZhuGcn05OATiR+m8TvvqTymuN199XpCIyioEhQC5DMMAE7gDgkewkp1ToS6l0Z7GxWyMqhUyrI27KNt3Ju4DYPYDGO81E8LqpR1vtFld1l6sAmd1wIdcFSMc8ZHEDb6d19LygSuwGw2DDBQU8ohXLjdkepgPfuJNyA8P9LNb6i9kaptS+/ymZWNY2jcMqSuWfcxwT+7zxJ+AiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIH/9k=);
+            background-position: top right, bottom right;
+            background-repeat: no-repeat;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        height: 100vh;
+        /* overflow: hidden; */
+        }
+
+        .title {
+            font-size: 32px;
+            margin-top: 50px;
+            /* margin-bottom: -60px; */
+            color: #000000;
+            text-align: center;
+            align-items: flex-start;
+            display: flex;
+            justify-content: center;
+        }
+
+        .introduction {
+            font-size: 24px;
+            margin-top: 0px;
+            /* margin-bottom: 10px; */
+            color: #000000;
+            text-align: left;
+            margin-left: 20px;
+            width: 100%;
+            max-width: 1000px;
+            height: 100%;
+            max-height: 350px;
+        }
+
+        .question-block1 {
+            background-color: rgba(255, 255, 255, 0);
+            padding: 50px;
+            margin-top: 100px;
+            
+            box-sizing: border-box;
+            width: 80%;
+            max-width: 1200px;
+        }
+        .question-block2 {
+            background-color: rgba(255, 255, 255, 0);
+            padding: 50px;
+            margin-top: 0px;
+            
+            box-sizing: border-box;
+            width: 80%;
+            max-width: 1200px;
+        }
+
+        h1 {
+            color: rgb(0, 0, 0);
+            font-size: 40px;
+            text-align: center;
+        }
+
+        .contact-info {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #000000;
+            text-align: center;
+        }
+        .submit-button {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            <h2>Introduction:</h2>
+        </div>
+        <div class="introduction">
+            <p>On this webpage, you can input the method, result, and discussion sections from your article. We will combine them with our prompt and then input them into the "gpt-3.5-turbo" model. It will generate a reproducible new method section and provide a reproducibility score for the new method section and the original method section.<br> 
+                <br>
+                Our prompt for generate method section is "please generate a method section that ensures that the following method, result, and discussion section is reproducible. Only output the method section without rewriting my original method, result, discussion, and conclusion sections again."<br>
+                <br>
+                Our prompt for calculate reproducibility score is "please score the following method section based on how well the following result and discussion section can be reproduced on a scale 0-1 with 0 meaning that the result can't be reproduced and 1 meaning that the result can be reproduced perfectly. please put the score on first line,and add <'br'> behind the score, and put the rest of the content after the second line"<br>
+                <br>
+                Due to the total character limit of 4096 for input and output combined, it is recommended to input less than 3500 characters.
+            </p>
+        </div>
+
+        <div class="question-block1">
+            <form method="POST" action="/input/">
+                {% csrf_token %}
+                <label for="input1" style="font-size: 30px;">Please input method section:</label>
+                <textarea id="input1" name="input1" style="font-size: 30px; width: 100%; height: 150px;"></textarea>
+                <button type="submit" class="submit-button" style="font-size: 30px;">Submit</button>
+                {% if done %}
+                    <p style="font-size: 30px">Done</p>
+                {% endif %}
+            </form>
+        </div>
+        <div class="question-block2">
+            <form method="POST" action="/input/">
+                {% csrf_token %}
+                <label for="input2" style="font-size: 30px;">Please input result, and discussion section:</label>
+                <textarea id="input2" name="input2" style="font-size: 30px; width: 100%; height: 350px;"></textarea>
+                <button type="submit" style="font-size: 30px;">Submit</button>
+            </form>
+        </div>
+        <div class="contact-info">
+            <p>Author's contact information：peterstone30516@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>

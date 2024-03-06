@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A movement ecology paradigm for unifying organismal movement research</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Proceedings of the National Academy of Sciences</publisher>
+				<availability status="unknown"><p>Copyright Proceedings of the National Academy of Sciences</p>
+				</availability>
+				<date type="published" when="2008-12-09">2008-12-09</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ran</forename><surname>Nathan</surname></persName>
+							<email>rnathan@cc.huji.ac.il.</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Evolution, Systematics and Ecology</orgName>
+								<orgName type="laboratory">Movement Ecology Laboratory</orgName>
+								<orgName type="institution" key="instit1">Alexander Silberman Institute of Life Sciences</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University of Jerusalem</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wayne</forename><forename type="middle">M</forename><surname>Getz</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Environmental Science, Policy and Management</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>94720</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eloy</forename><surname>Revilla</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Conservation Biology</orgName>
+								<orgName type="department" key="dep2">Estacio ´n Biolo ´gica de Don ˜ana</orgName>
+								<orgName type="institution">Spanish Council for Scientific Research CSIC</orgName>
+								<address>
+									<postCode>E-41013</postCode>
+									<settlement>Seville</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcel</forename><surname>Holyoak</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Environmental Science and Policy</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<postCode>95616</postCode>
+									<settlement>Davis</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ronen</forename><surname>Kadmon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Evolution, Systematics and Ecology</orgName>
+								<orgName type="laboratory">Movement Ecology Laboratory</orgName>
+								<orgName type="institution" key="instit1">Alexander Silberman Institute of Life Sciences</orgName>
+								<orgName type="institution" key="instit2">The Hebrew University of Jerusalem</orgName>
+								<address>
+									<postCode>91904</postCode>
+									<settlement>Jerusalem</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Saltz</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Mitrani Department of Desert Ecology</orgName>
+								<orgName type="institution" key="instit1">Jacob Blaustein Institutes for Desert Research</orgName>
+								<orgName type="institution" key="instit2">Ben Gurion University of the Negev</orgName>
+								<orgName type="institution" key="instit3">Sede Boqer Campus</orgName>
+								<address>
+									<postCode>84990</postCode>
+									<settlement>Israel</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Peter</forename><forename type="middle">E</forename><surname>Smouse</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Ecology, Evolution and Natural Resources</orgName>
+								<orgName type="institution">Rutgers University</orgName>
+								<address>
+									<postCode>08901</postCode>
+									<settlement>New Brunswick</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A movement ecology paradigm for unifying organismal movement research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Proceedings of the National Academy of Sciences</title>
+						<title level="j" type="abbrev">Proc. Natl. Acad. Sci. U.S.A.</title>
+						<idno type="ISSN">0027-8424</idno>
+						<idno type="eISSN">1091-6490</idno>
+						<imprint>
+							<publisher>Proceedings of the National Academy of Sciences</publisher>
+							<biblScope unit="volume">105</biblScope>
+							<biblScope unit="issue">49</biblScope>
+							<biblScope unit="page" from="19052" to="19059"/>
+							<date type="published" when="2008-12-09" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0818F3FE0A00E26B29703E304D40111D</idno>
+					<idno type="DOI">10.1073/pnas.0800375105</idno>
+					<idno type="PMID">19060196</idno>
+					<idno type="PMCID">PMC2614714</idno>
+					<ptr type="open-access" target="http://www.pnas.org/content/105/49/19052.full.pdf" />
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2-SNAPSHOT" ident="GROBID" when="2022-06-01T13:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
